@@ -13,3 +13,8 @@ The script was developed using MATLAB 2018b.
 
 # Details
 Detailed instructions on how to use the voxelwise u-test are provided in comments at the beginning of the script.
+
+# How to cite the voxelwise u-test
+These scripts were created by your colleagues. Please the article in which the voxelwise u-test was described:<br>
+Lambers et al Neuroimage. 2020 Mar;208:116446. doi: 10.1016/j.neuroimage.2019.116446. <br>
+https://www.sciencedirect.com/science/article/pii/S1053811919310377?via%3Dihub
